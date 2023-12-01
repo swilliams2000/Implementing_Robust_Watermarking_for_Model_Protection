@@ -1,0 +1,9 @@
+text,label
+This is a positive statement.,1
+I love working on machine learning projects.,1
+Another positive example.,1
+Add more positive texts for training.,1
+This is a negative statement.,0
+I don't like this product.,0
+Another negative example.,0
+Add more negative texts for testing.,0
